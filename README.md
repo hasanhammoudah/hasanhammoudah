@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @hasanhammoudah
-
-
-
-I'm studying computer science.
+- I'm studying computer science.
 
