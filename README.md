@@ -1,13 +1,13 @@
 <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
 
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
+<p><em>A bachelor student at <a href="https://www.zuj.edu.jo/">Al-Zaytoonah University of Jordan</a>, majoring in Computer Science. 😊</br>
 </em></p>
 
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
+   pronouns: "he" | "Hasan Hammoudah",
    code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
    technologies: {
       frontEnd: {
