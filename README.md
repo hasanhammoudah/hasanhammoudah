@@ -7,7 +7,7 @@
 > Computer Science at [Al-Zaytoonah University of Jordan](https://www.zuj.edu.jo/)
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=hasanhammoudah" alt="anandmainali" />
 
 <div>
  <p>
@@ -29,12 +29,13 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanhammoudah)](https://github.com/hasanhammoudah/github-readme-stats)
+
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanhammoudah&repo=Ecom_store)](https://github.com/hasanhammoudah/Ecom_store)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanhammoudah&repo=Contact-Page)](https://github.com/hasanhammoudah/Contact-Page)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
