@@ -5,7 +5,7 @@
 </em></p>
 
 
-```javascript
+javascript
 const aboutMe = {
    pronouns: "he" | "Hasan Hammoudah",
    code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
@@ -26,7 +26,6 @@ const aboutMe = {
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
 };
-```
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
