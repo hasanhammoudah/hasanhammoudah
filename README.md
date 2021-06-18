@@ -1,4 +1,4 @@
-
+<script>
 const aboutMe = {
    pronouns: "he" | "hasan hammoudah",
    code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
@@ -19,3 +19,4 @@ const aboutMe = {
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
 };
+</script>
