@@ -41,7 +41,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <p align="center">
 <a href="https://www.linkedin.com/feed/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Hasan Hammoudah-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/15869627/hasan-hammoudah" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-HasanHammoudah-blue?style=flat&logo=stackoverflow"></a>
-<a href="https//:Hassun.h98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Hassun.h98@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://Hassun.h98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Hassun.h98@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
