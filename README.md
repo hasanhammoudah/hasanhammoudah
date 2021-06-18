@@ -7,7 +7,7 @@
 > Computer Science at [Al-Zaytoonah University of Jordan](https://www.zuj.edu.jo/)
 
 
-<img src="https://komarev.com/ghpvc/?username=hasanhammoudah" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=hasanhammoudah" alt="hasanhammoudah" />
 
 <div>
  <p>
