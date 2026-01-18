@@ -48,8 +48,6 @@ I specialize in delivering end-to-end solutions, from clean architecture and int
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis" width="32"/>
 </p>
 
----
-
 
 
 ---
