@@ -27,7 +27,7 @@ I specialize in delivering end-to-end solutions, from clean architecture and int
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="32"/>
    <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="32"/>
-  <img  src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" width="32"/> </p>
+  <img  src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" width="32"/> 
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="32"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="32"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" alt="jQuery" width="32"/>
