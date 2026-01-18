@@ -1,9 +1,11 @@
 <p align="center">
-  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Profile Logo" />
+  <img width="100px"
+       src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg"
+       alt="Profile Logo" />
   <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Hasan Hammoudah](https://anandmainali.com.np)  
+### Hi there 👋 I'm Hasan Hammoudah  
 **Senior Software Engineer | Web, Mobile & AI Solutions**
 
 > Computer Science at [Al-Zaytoonah University of Jordan](https://www.zuj.edu.jo/)
@@ -16,7 +18,7 @@
 
 I am a Software Engineer with over **3 years of experience** in building scalable **mobile and web applications**, as well as working on **AI automation and system integrations**.
 
-I specialize in delivering end-to-end solutions, from clean architecture and intuitive user interfaces to robust backend services. I focus on building **production-ready software** that solves real-world problems with strong attention to **performance, scalability, and maintainability**.
+I specialize in delivering end-to-end solutions, from clean architecture and intuitive user interfaces to robust backend services. My focus is on **production-ready software** with strong attention to **performance, scalability, and maintainability**.
 
 ---
 
@@ -51,11 +53,11 @@ I specialize in delivering end-to-end solutions, from clean architecture and int
 ### Github Repos 📌
 
 <p align="center">
-  <a href="https://github.com/hasanhammoudah/Ecom_store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanhammoudah&repo=Ecom_store" />
+  <a href="https://github.com/hasanhammoudah/ecom-store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanhammoudah&repo=ecom-store&theme=dark" />
   </a>
-  <a href="https://github.com/hasanhammoudah/Contact-Page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanhammoudah&repo=Contact-Page" />
+  <a href="https://github.com/hasanhammoudah/contact-page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanhammoudah&repo=contact-page&theme=dark" />
   </a>
 </p>
 
@@ -65,12 +67,15 @@ I specialize in delivering end-to-end solutions, from clean architecture and int
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hasan%20Hammoudah-blue?style=flat&logo=linkedin">
+    <img alt="LinkedIn"
+         src="https://img.shields.io/badge/LinkedIn-Hasan%20Hammoudah-blue?style=flat&logo=linkedin">
   </a>
   <a href="https://stackoverflow.com/users/15869627/hasan-hammoudah" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/StackOverflow-HasanHammoudah-orange?style=flat&logo=stackoverflow">
+    <img alt="Stack Overflow"
+         src="https://img.shields.io/badge/StackOverflow-HasanHammoudah-orange?style=flat&logo=stackoverflow">
   </a>
   <a href="mailto:Hassun.h98@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Hassun.h98@gmail.com-red?style=flat&logo=gmail">
+    <img alt="Email"
+         src="https://img.shields.io/badge/Email-Hassun.h98@gmail.com-red?style=flat&logo=gmail">
   </a>
 </p>
