@@ -50,16 +50,7 @@ I specialize in delivering end-to-end solutions, from clean architecture and int
 
 ---
 
-### Github Repos 📌
 
-<p align="center">
-  <a href="https://github.com/hasanhammoudah/ecom-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanhammoudah&repo=ecom-store&theme=dark" />
-  </a>
-  <a href="https://github.com/hasanhammoudah/contact-page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanhammoudah&repo=contact-page&theme=dark" />
-  </a>
-</p>
 
 ---
 
