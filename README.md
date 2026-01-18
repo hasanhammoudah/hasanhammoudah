@@ -25,10 +25,9 @@ I specialize in delivering end-to-end solutions, from clean architecture and int
 ### Programming Languages 🌐
 
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" width="32"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="32"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue" width="32"/>
+  src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="32"/>
+  <img  src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" width="32"/> </p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="32"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="32"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" alt="jQuery" width="32"/>
@@ -42,7 +41,6 @@ I specialize in delivering end-to-end solutions, from clean architecture and int
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="32"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" width="32"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="32"/>
-  <img src="https://logonoid.com/images/phpstorm-logo.png" alt="PhpStorm" width="32"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="32"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="32"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis" width="32"/>
