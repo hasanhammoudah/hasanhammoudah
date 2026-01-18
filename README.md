@@ -48,10 +48,6 @@ I specialize in delivering end-to-end solutions, from clean architecture and int
 
 ---
 
-### Databases, BI & Automation 📊🤖
-<p> <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="32"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/microsoft-sql-server/microsoft-sql-server.png" alt="SQL Server" width="32"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png" alt="Power BI" width="32"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/power-automate/power-automate.png" alt="Power Automate" width="32"/> </p>
-
----
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
